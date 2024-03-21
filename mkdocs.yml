@@ -1,0 +1,26 @@
+site_name: Purple Pedal
+
+
+extra_css: 
+  - css/extra.css
+
+nav: 
+-Pedal Overview : overview/index.md
+-Features: overview/features.md
+-Getting Started: overview/getting_started.md
+-Assembly: assembly/index.md
+-Electronics: assembly/electronics.md
+-Enclosure: assembly/enclosure.md
+-Testing The Pedal: assembly/test.md
+-Software: software/index.md
+-How to write your first program: software/programming_tutorial.md
+-How to upload code: software/upload_code.md
+-Installing the Daisy Seed Toolchain: software/toolchain_install.md
+-Setting up Serial Monitor: software/serial_monitor.md
+-Troubleshooting: assembly/troubleshooting.md
+-Misc: misc/index
+-Effects Explainer: misc/
+-Work in Progress:
+
+
+  

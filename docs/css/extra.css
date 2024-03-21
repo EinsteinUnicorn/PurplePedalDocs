@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(249, 216, 249);
+}
+.nav {
+    background-color: purple;
+}
+.bg-primary.navbar {
+    background-color: purple;
+}
