@@ -1,8 +1,7 @@
 site_name: Purple Pedal
 
 
-extra_css: 
-  - css/extra.css
+
 
 nav: 
 -Pedal Overview : overview/index.md
@@ -23,4 +22,5 @@ nav:
 -Work in Progress:
 
 
-  
+extra_css: 
+  - css/extra.css

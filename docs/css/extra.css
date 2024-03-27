@@ -1,9 +1,23 @@
 body {
-    background-color: rgb(249, 216, 249);
-}
+    background-color: rgb(235, 221, 241);
+    /*image being overwritten by a more specific class somewhere
+    /*background-image: url('..\..\Img\pedal_texture_1.JPG'); 
+    /*background-size: cover;
+    /*background-repeat: no-repeat;  Prevents the background image from repeating */
+} 
+
 .nav {
-    background-color: purple;
+    background-color: rgb(123, 11, 167);
 }
-.bg-primary.navbar {
-    background-color: purple;
+
+.bg-primary {
+    background-color: rgb(123, 11, 167);
+}
+
+body {
+    font-family: 'Arial', sans-serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
 }
