@@ -1,15 +1,15 @@
 
 
-## The Purple Pedal
+# The Purple Pedal
 *An open source experimental effects platform!*
 
-The **Purple Pedal** is an open source, reprogrammable, audio effects device based on the Daisy Seed. It features a very simple guitar pedal style interface to with various digital audio effects. 
+The **Purple Pedal** is a reprogrammable audio effects device based on the Daisy Seed microcontroller. It features a simple guitar-pedal-esque interface capable of adding various digital audio effects to any input. 
 
-It leverages the reprogrammable I/O on the daisy seed to enable more varieties of musical expression when couple with various sensors. 
+The pedal leverages the Daisy Seed's reprogrammable I/O to enable a range of musical expression when coupled with various sensors. 
 
 As of now, the Purple Pedal is compatible with the Daisy Seed C++ toolchain. We are working to make it compatible with Pure Data. 
 
-The Purple Pedal started as a research project & performance art piece created in collaboration with Carnegie Mellon University, Pittsburgh Experimental Guitar Night, and the Open Improv Lab. 
+The Purple Pedal started as a research project & performance art piece created in collaboration with Carnegie Mellon University, Pittsburgh Experimental Guitar Night, and the PSP Open Improv Lab. 
 
 We thank each of these communities for their part in helping us bring open source music hardware to more people <3. 
 
